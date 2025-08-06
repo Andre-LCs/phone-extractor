@@ -29,6 +29,7 @@ Este projeto contém um script simples em JavaScript que extrai números de tele
 
 3. O script será executado e o arquivo `numeros_telefone.csv` será baixado automaticamente com os números encontrados.
 
+
 ## 💡 Vantagem
 
 Uma forma gratuita e sem programas de extrair números de grupos de WhatsApp.
