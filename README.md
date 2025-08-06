@@ -1,4 +1,4 @@
-# 📞 Extrator de Números de Telefone via JavaScript
+# Extrator de Números de Telefone via JavaScript
 
 Este projeto contém um script simples em JavaScript que extrai números de telefone com DDI +55 (Brasil) de grupos do WhatsApp Web, buscando esses números em elementos <span> com atributo title na página HTML.
 
@@ -32,3 +32,4 @@ Este projeto contém um script simples em JavaScript que extrai números de tele
 ## 💡 Vantagem
 
 Uma forma gratuita e sem programas de extrair números de grupos de WhatsApp.
+
