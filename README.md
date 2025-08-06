@@ -8,7 +8,7 @@ Este projeto contém um script simples em JavaScript que extrai números de tele
 - Usa uma expressão regular para localizar números com o padrão `55 XX XXXX-XXXX` ou `55 XX XXXXX-XXXX`.
 - Limpa os caracteres não numéricos.
 - Gera um arquivo `.csv` com os números encontrados.
-- Dispara o download automático desse arquivo.
+- Faz o download automático desse arquivo.
 
 ## 🚀 Como usar
 
