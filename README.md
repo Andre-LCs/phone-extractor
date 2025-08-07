@@ -2,7 +2,7 @@
 
 Este projeto contém um script simples em JavaScript que extrai números de telefone com DDI +55 (Brasil) de grupos do WhatsApp Web, buscando esses números em elementos **span** com atributo **title** na página HTML.
 
-## 🔧 Como funciona
+## Como funciona
 
 - O script busca por todos os elementos `span[title]` no DOM da página atual.
 - Usa uma expressão regular para localizar números com o padrão `55 XX XXXX-XXXX` ou `55 XX XXXXX-XXXX`.
@@ -10,7 +10,7 @@ Este projeto contém um script simples em JavaScript que extrai números de tele
 - Gera um arquivo `.csv` com os números encontrados.
 - Faz o download automático desse arquivo.
 
-## 🚀 Como usar
+## Como usar
 
 1. Copie o conteúdo de `script.js`.
 
@@ -30,7 +30,7 @@ Este projeto contém um script simples em JavaScript que extrai números de tele
 3. O script será executado e o arquivo `numeros_telefone.csv` será baixado automaticamente com os números encontrados.
 
 
-## 💡 Vantagem
+## Vantagem
 
 Uma forma gratuita e sem programas de extrair números de grupos de WhatsApp.
 
